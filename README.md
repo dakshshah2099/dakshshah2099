@@ -10,7 +10,7 @@ YOU MUST SET UP THE GITHUB ACTIONS IN YOUR REPO AS EXPLAINED IN THE CHAT.
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=fb542b&center=true&vCenter=true&random=false&width=720&lines=IoT+Enthusiast;Full-Stack+Developer;DevOps+Tinkerer;Building+Systems+That+Scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=fb542b&center=true&vCenter=true&random=false&width=720&lines=IoT+Enthusiast;Full-Stack+Developer;AI/ML+Explorer;DevOps+Tinkerer" alt="Typing SVG" />
   </a>
 
   <br>
