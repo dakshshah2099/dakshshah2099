@@ -16,9 +16,12 @@ YOU MUST SET UP THE GITHUB ACTIONS IN YOUR REPO AS EXPLAINED IN THE CHAT.
     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <br>
   <a href="mailto:dakshshah2099@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <br>
   <a href="https://dakshshah2099.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
   </a>
