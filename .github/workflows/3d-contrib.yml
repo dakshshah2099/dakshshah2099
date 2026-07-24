@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
