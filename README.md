@@ -31,7 +31,7 @@ I build robust, automated systems from the bare-metal microcontroller all the wa
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,svelte,fastapi,nodejs,html,css,tailwind,bash,linux,ubuntu,aws,docker,mysql,postgres,mongodb,firebase,git,github,githubactions,vscode,figma,postman,arduino,raspberrypi&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,fastapi,html,css,tailwind,bash,linux,ubuntu,aws,docker,mysql,postgres,firebase,git,github,githubactions,vscode,figma,postman,arduino&perline=14" />
   </a>
 </div>
 
