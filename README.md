@@ -13,6 +13,7 @@ YOU MUST SET UP THE GITHUB ACTIONS IN YOUR REPO AS EXPLAINED IN THE CHAT.
   <br>
 
   <a href="https://linkedin.com/in/dakshshah2099">
+    <img src="https://skillicons.dev/icons?i=linkedinperline=1" />
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dakshshah2099@gmail.com">
@@ -31,7 +32,17 @@ I build robust, automated systems from the bare-metal microcontroller all the wa
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,fastapi,html,css,tailwind,bash,linux,ubuntu,aws,docker,mysql,postgres,firebase,git,github,githubactions,vscode,figma,postman,arduino&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,md,aws,cloudflare,docker,mysql,git,github,githubactions,vscode,postman,arduino&perline=10" />
+  </a>
+</div>
+
+<br>
+
+## Things I have worked with (Learning...)
+Tinkered with but not yet mastered.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,react,vite,svelte,nodejs,firebase,java,gcp,postgres,bash,linux,ubuntu,figma&perline=10" />
   </a>
 </div>
 
