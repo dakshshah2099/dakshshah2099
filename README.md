@@ -7,13 +7,13 @@ YOU MUST SET UP THE GITHUB ACTIONS IN YOUR REPO AS EXPLAINED IN THE CHAT.
 
 <div align="center">
   
-  <h1>⚡ Daksh Ketankumar Shah ⚡</h1>
-  <h3>DevOps Engineer | IoT Enthusiast | Full-Stack Developer</h3>
+  <h1 font="Poppins"> Daksh Ketankumar Shah </h1>
+  <h3>IoT Enthusiast | Full-Stack Developer | DevOps Tinkerer</h3>
 
   <br>
 
   <a href="https://linkedin.com/in/dakshshah2099">
-    <img src="https://skillicons.dev/icons?i=linkedinperline=1" />
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dakshshah2099@gmail.com">
